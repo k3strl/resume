@@ -1,0 +1,27 @@
+html {
+    background-color: #596f85;
+    padding: 1;
+    margin: 1;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
+    background-color: #596f85;
+    padding: 0px 0px 0px 0px;
+    border: 2px solid black;
+
+}
+
+header {
+    background-color: #FFFFFF;
+    margin-left: 10px;
+}
+
+.footer {
+
+}
+
+.wrapper {
+    display: grid;
+}
